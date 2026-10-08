@@ -13,6 +13,7 @@ function App() {
   return (
     <div style={{ padding: 40, fontFamily: "sans-serif" }}>
       <h1>React Frontend Running</h1>
+      <h1>Welcome to the Fullstack CI/CD Project</h1>
       <h2>Backend says: {message}</h2>
     </div>
   );
